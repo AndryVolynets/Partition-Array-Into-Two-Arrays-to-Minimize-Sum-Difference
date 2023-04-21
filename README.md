@@ -1,6 +1,5 @@
 # Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference
 
-# 2035. Partition Array Into Two Arrays to Minimize Sum Difference
 <p>Return <em>the <strong>minimum</strong> possible absolute difference</em>.</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="example-1" src="https://assets.leetcode.com/uploads/2021/10/02/ex1.png" style="width: 240px; height: 106px;">
